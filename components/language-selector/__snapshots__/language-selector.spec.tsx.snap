@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components LanguageSelector lang=en should match snapshot 1`] = `
+.c0 {
+  cursor: pointer;
+  color: #000000;
+  background: #f9da2e;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 25px;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.c1 {
+  background-color: green;
+  color: inherit;
+  font-size: 10px;
+  border: none;
+}
+
+.c2 {
+  background-color: inherit;
+  color: inherit;
+  font-size: 10px;
+  border: none;
+}
+
+<div>
+  <button
+    class="c0 c1"
+  >
+    English
+  </button>
+  <button
+    class="c0 c2"
+  >
+    Spanish
+  </button>
+</div>
+`;

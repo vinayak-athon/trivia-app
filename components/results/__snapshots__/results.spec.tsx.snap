@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components Results should match snapshot 1`] = `
+.c0 {
+  display: grid;
+  gap: 1rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+}
+
+<div>
+  <section
+    class="c0"
+  >
+    <div>
+      <span>
+        👍
+      </span>
+      <span>
+        In the game "Melty Blood Actress Again Current Code", you can enter Blood Heat mode in Half Moon style.
+      </span>
+    </div>
+    <div>
+      <span>
+        👍
+      </span>
+      <span>
+        In Undertale, having a "Fun Value" set to 56-57 will play the "Wrong Number Song Call".
+      </span>
+    </div>
+    <div>
+      <span>
+        👍
+      </span>
+      <span>
+        The Battle of Trafalgar took place on October 23rd, 1805
+      </span>
+    </div>
+    <div>
+      <span>
+        👍
+      </span>
+      <span>
+        All of these maps were in "Tom Clancyundefineds Rainbow Six Siege" on its initial release: House, Clubhouse, Border, Consulate.
+      </span>
+    </div>
+    <div>
+      <span>
+        👎
+      </span>
+      <span>
+        Nazi Germany surrendered on Harry Trumanundefineds birthday while he was president.
+      </span>
+    </div>
+    <div>
+      <span>
+        👎
+      </span>
+      <span>
+        Stagecoach owned "South West Trains" before losing the rights to FirstGroup and MTR in March of 2017.
+      </span>
+    </div>
+    <div>
+      <span>
+        👎
+      </span>
+      <span>
+        Spoon theory is a theory, utilizing "Spoons" as a metaphor for energy they can use in a day.
+      </span>
+    </div>
+    <div>
+      <span>
+        👎
+      </span>
+      <span>
+        The Statue of Libertyundefineds official name is undefinedLiberty Enlightening the Worldundefined.
+      </span>
+    </div>
+    <div>
+      <span>
+        👎
+      </span>
+      <span>
+        Only one country in the world starts with the letter Q.
+      </span>
+    </div>
+    <div>
+      <span>
+        👎
+      </span>
+      <span>
+        The protagonist in "Humanity Has Declined" has no discernable name and is simply referred to as undefinedIundefined for most of the series.
+      </span>
+    </div>
+  </section>
+</div>
+`;

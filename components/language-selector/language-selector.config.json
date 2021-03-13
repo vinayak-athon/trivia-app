@@ -1,0 +1,12 @@
+[
+  {
+    "lang": "en",
+    "displayText": "English",
+    "isActive": false
+  },
+  {
+    "lang": "es",
+    "displayText": "Spanish",
+    "isActive": false
+  }
+]

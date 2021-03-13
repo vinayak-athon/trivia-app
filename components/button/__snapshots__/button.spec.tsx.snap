@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components Button should match snapshot 1`] = `
+.c0 {
+  cursor: pointer;
+  color: #000000;
+  background: #f9da2e;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 25px;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+<div>
+  <button
+    class="c0"
+  >
+    Test
+  </button>
+</div>
+`;
