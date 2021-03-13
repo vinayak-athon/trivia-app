@@ -1,0 +1,17 @@
+{
+  "AppName": "Trivia",
+  "AppNarrationDescr": "You will be presented with 10 True or False questions",
+  "AppNarrationQuest": "Can you score 100%?",
+  "Home": "Home",
+  "Question": "Question",
+  "Error": "Errr!",
+  "NotFound": "Page not found!",
+  "BackHome": "Back to home",
+  "Begin": "begin",
+  "True": "true",
+  "False": "false",
+  "Result": "Result",
+  "YourScore": "You Scored",
+  "PlayAgain": "Play Again?",
+  "Loaging": "Loaging..."
+}

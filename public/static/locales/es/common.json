@@ -1,0 +1,17 @@
+{
+  "AppName": "trivialidades",
+  "AppNarrationDescr": "Se le presentarán 10 preguntas de verdadero o falso",
+  "AppNarrationQuest": "¿Puedes puntuar al 100%?",
+  "Home": "Hogar",
+  "Question": "Pregunta",
+  "Error": "Err!",
+  "NotFound": "¡Página no encontrada!",
+  "BackHome": "De vuelta a casa",
+  "Begin": "comenzar",
+  "True": "erual",
+  "False": "equivocado",
+  "Result": "Resultado",
+  "YourScore": "Has anotado",
+  "PlayAgain": "¿Juega de nuevo?",
+  "Loaging": "cargando..."
+}
