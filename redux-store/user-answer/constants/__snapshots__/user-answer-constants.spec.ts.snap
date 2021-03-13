@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserAnswerActionConsts should have to Match Snapshot 1`] = `
+Object {
+  "RESET_USER_ANSWER": "RESET_USER_ANSWER",
+  "SET_USER_ANSWER": "SET_USER_ANSWER",
+}
+`;
